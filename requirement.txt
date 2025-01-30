@@ -1,0 +1,7 @@
+pyupbit
+streamlit
+openai
+pandas
+numpy
+sqlalchemy
+python-dotenv
